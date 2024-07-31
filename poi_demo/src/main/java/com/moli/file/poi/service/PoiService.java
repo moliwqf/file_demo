@@ -1,6 +1,7 @@
 package com.moli.file.poi.service;
 
 import org.apache.poi.xssf.streaming.SXSSFWorkbook;
+import org.apache.poi.xwpf.usermodel.XWPFDocument;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -14,5 +15,7 @@ public interface PoiService {
     SXSSFWorkbook generateExcelWorkbook();
 
     void upload(InputStream inputStream) throws IOException;
+
+    XWPFDocument generateWordXWPFDocument();
 
 }
