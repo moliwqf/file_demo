@@ -17,6 +17,7 @@
         <module>common</module>
         <module>poi_demo</module>
         <module>easyexcel_demo</module>
+        <module>poitl_demo</module>
     </modules>
 
     <properties>
