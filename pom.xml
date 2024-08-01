@@ -18,6 +18,7 @@
         <module>poi_demo</module>
         <module>easyexcel_demo</module>
         <module>poitl_demo</module>
+        <module>itextpdf_demo</module>
     </modules>
 
     <properties>

@@ -4,7 +4,6 @@ import com.deepoove.poi.XWPFTemplate;
 import com.deepoove.poi.data.*;
 import com.moli.cache.entity.User;
 import com.moli.file.poitl.service.PoiTlService;
-import com.sun.org.apache.bcel.internal.util.ClassPath;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.core.io.Resource;
 import org.springframework.stereotype.Service;
